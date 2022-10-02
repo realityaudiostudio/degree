@@ -37,3 +37,9 @@ background-image: url(img/degbg.png);background-repeat: no-repeat;background-siz
         border-radius: 48px; }
     .tuthd{display: flex; gap: 45px; padding: 38px 41px 0px 41px;}
     .foot{color:#D9D9D9;text-align: center;font-size: 16px;}
+    .tmn{display: flex;justify-content: space-between;padding: 22px 28px 0px 28px;}
+    .thum{display: flex;padding: 5px 0px 0px 28px;align-items: center;gap:4px;}
+    .itin{display: flex;justify-content: space-around;background: #38393E;
+        box-shadow: 0px 4px 29px 6px rgba(0, 0, 0, 0.25);
+        border-radius: 15px;padding: 10px 15px 10px 15px;align-items: center;}
+        .items{padding-left:28px;padding-right:28px;}
